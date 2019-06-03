@@ -4,8 +4,8 @@ Projeto Integrado
 
 Alunos:
 
-Jakson Souza 802.104
-Franklin Sampaio 802.092
-Lucas Ferreira 802.101
+Jakson Souza 802.104<br>
+Franklin Sampaio 802.092<br>
+Lucas Ferreira 802.101<br>
 Anderson Bertine 802.207
 
