@@ -1,11 +1,5 @@
-# ConBov
+# Projeto Integrado - Sistema de Monitoramento de Gado
 
-Projeto Integrado
+## Desenvolvido utilizando Java e MySQL.
 
-Alunos:
-
-Jakson Souza 802.104<br>
-Franklin Sampaio 802.092<br>
-Lucas Ferreira 802.101<br>
-Anderson Bertine 802.207
-
+<img src="https://i.ibb.co/88BLmrJ/conbov.png" alt="system" border="0">
